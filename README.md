@@ -143,7 +143,7 @@ A Pull Request is the process of merging the changes in your forked repository i
 
 **GitHub Issues**
 
-Issues are an auxilliary part of the GitHub platform; a separate tool built to be used in conjunction with Git. We are going to use Issues in this class to provide feedback on assignments, ask for help on assignments, and to show where in your commit history you were doing good things, or where things went wrong. This is an extremely helpful tool for collaboration as you will see in your group assignments in this class.
+Issues are an auxiliary part of the GitHub platform; a separate tool built to be used in conjunction with Git. We are going to use Issues in this class to provide feedback on assignments, ask for help on assignments, and to show where in your commit history you were doing good things, or where things went wrong. This is an extremely helpful tool for collaboration as you will see in your group assignments in this class.
 
 
 ##Git and Github
